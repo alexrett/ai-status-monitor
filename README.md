@@ -28,6 +28,12 @@ If you build on top of Claude or OpenAI APIs, outages and degraded performance h
 
 ## Install
 
+### Homebrew
+
+```bash
+brew install --cask alexrett/tap/ai-status-monitor
+```
+
 ### Download
 
 Grab the latest `AIStatusMonitor.app.zip` from [Releases](https://github.com/alexrett/ai-status-monitor/releases).
